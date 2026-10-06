@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="arkham — zero to shipped" />
+<img src="./header.svg" width="100%" alt="arkham — zero to shipped" />
 
 **i build things end to end.** most of it ai-assisted now:<br/>
 internal tools, scrapers, chatbots, dashboards, and occasionally a whole platform.
