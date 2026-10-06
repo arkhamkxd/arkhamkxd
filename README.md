@@ -20,7 +20,7 @@ internal tools, scrapers, chatbots, dashboards, and occasionally a whole platfor
 | **ai audio journal** | whisper → llm for reflective responses. **acquired.** |
 | **ai quality assurance platform** | built for a textile manufacturer. client **resold it commercially.** |
 | **custom cms** | replaced wordpress across **64 releases**, plus an arabic localisation layer |
-| **search recovery** | someone deindexed half our site. found it, fixed it. **102 → 258 clicks/day** |
+| **internal tooling** | scrapers, chatbots, dashboards and automations. mostly ai-assisted, mostly built in days not weeks |
 
 <br/>
 
@@ -30,7 +30,7 @@ internal tools, scrapers, chatbots, dashboards, and occasionally a whole platfor
 
 **the hard part is never the code.** it's getting business, design and engineering to agree on what we're actually building. most of my week goes there.
 
-**measure it or it didn't happen.** i went looking for why signups were flat and found 69% of new accounts had never been used. nobody had checked.
+**measure it or it didn't happen.** most teams track what's easy to count. the useful number is usually one nobody has looked at yet.
 
 <br/>
 
