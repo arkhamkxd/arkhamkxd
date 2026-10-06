@@ -58,7 +58,7 @@ technically a computer systems engineer. practically, whatever the thing needs.
 
 <sub>
 
-i play guitar badly · own more monitors than rooms · ride an electric motorcycle
+guitar, drums and keys, enough to record · own more monitors than rooms · ride an electric motorcycle
 around a city that wasn't built for one · my cat supervises
 
 </sub>
