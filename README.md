@@ -2,15 +2,14 @@
 
 <img src="./banner.svg" width="100%" alt="arkham — zero to shipped" />
 
-![Role](https://img.shields.io/badge/product%20%26%20growth-wondertree-6C7FDE?style=for-the-badge&labelColor=0d1117)
-![Building](https://img.shields.io/badge/building%20since-14-E35D6A?style=for-the-badge&labelColor=0d1117)
-![Where](https://img.shields.io/badge/karachi-gmt%2B5-F5A623?style=for-the-badge&labelColor=0d1117)
+**i build things end to end.** most of it ai-assisted now:<br/>
+internal tools, scrapers, chatbots, dashboards, and occasionally a whole platform.
+
+![Role](https://img.shields.io/badge/product%20%26%20growth-wondertree-818CF8?style=for-the-badge&labelColor=0d1117)
+![Building](https://img.shields.io/badge/building%20since-14-FB923C?style=for-the-badge&labelColor=0d1117)
+![Where](https://img.shields.io/badge/karachi-gmt%2B5-22D3EE?style=for-the-badge&labelColor=0d1117)
 
 </div>
-
-<br/>
-
-> i build things end to end. most of it ai-assisted now: internal tools, scrapers, chatbots, dashboards, and occasionally a whole platform.
 
 <br/>
 
@@ -22,6 +21,16 @@
 | **ai quality assurance platform** | built for a textile manufacturer. client **resold it commercially.** |
 | **custom cms** | replaced wordpress across **64 releases**, plus an arabic localisation layer |
 | **search recovery** | someone deindexed half our site. found it, fixed it. **102 → 258 clicks/day** |
+
+<br/>
+
+## 🧭 how i work
+
+**ship the smallest thing that proves the point.** prototypes beat decks. if it can be real in a day, it shouldn't be a mockup for a week.
+
+**the hard part is never the code.** it's getting business, design and engineering to agree on what we're actually building. most of my week goes there.
+
+**measure it or it didn't happen.** i went looking for why signups were flat and found 69% of new accounts had never been used. nobody had checked.
 
 <br/>
 
@@ -52,11 +61,14 @@
 
 <div align="center">
 
-<sub>guitar, drums and keys, enough to record · more monitors than rooms · an electric motorcycle in a city that wasn't built for one · supervised by a cat</sub>
+<sub>guitar, drums and keys, enough to record · more monitors than rooms · an electric motorcycle in a city that wasn't built for one · supervised by an orange cat</sub>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/-linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/arkhamkxd)
-[![Email](https://img.shields.io/badge/-email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:arkham.workmail@gmail.com)
+<a href="https://www.linkedin.com/in/arkhamkxd"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=818CF8" alt="linkedin" /></a>
+<a href="mailto:arkham.workmail@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=FB923C" alt="email" /></a>
+<a href="https://x.com/arkhamkxd"><img src="https://img.shields.io/badge/x-0d1117?style=for-the-badge&logo=x&logoColor=22D3EE" alt="x" /></a>
+
+<img src="./footer.svg" width="100%" alt="made in karachi" />
 
 </div>
